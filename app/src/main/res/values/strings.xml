@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Practica2</string>
+    <string name="nombrecompleto">Nombre Completo</string>
+    <string name="matricula">#matricula</string>
+    <string name="carrera">Carrera:</string>
+    <string name="grupo">Grupo:</string>
+    <string name="turno">Turno:</string>
+    <string name="promedio">Ver promedio:</string>
+    <string name="resumen">Ver resumen:</string>
 </resources>
